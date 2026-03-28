@@ -1,0 +1,28 @@
+# API Keys — never upload!
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+myenv/
+venv/
+env/
+
+# CSV files (regenerate automatically)
+*.csv
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Output files (generated at runtime)
+*_output.json
+test_output.json
+frontend_output.json
+pipeline_output.json
