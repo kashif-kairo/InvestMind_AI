@@ -15,9 +15,8 @@ from pipeline import run_pipeline
 # This file is in: IMAI/backend/main.py
 # Frontend is in:  IMAI/frontend/index.html
 
-BASE_DIR     = os.path.dirname(os.path.abspath(__file__))   # IMAI/backend/
-FRONTEND_DIR = os.path.join(BASE_DIR, "..", "frontend")      # IMAI/frontend/
-FRONTEND_DIR = os.path.abspath(FRONTEND_DIR)                 # Clean absolute path
+BASE_DIR     = os.path.dirname(os.path.abspath(__file__))
+FRONTEND_DIR = BASE_DIR  # index.html is in same folder as main.py              # Clean absolute path
 
 print(f"Backend  folder : {BASE_DIR}")
 print(f"Frontend folder : {FRONTEND_DIR}")
