@@ -1,8 +1,8 @@
-# ⚡ IMAI — AI Stock Analyzer
+# ⚡ InvestMind — AI Stock Analyzer
 
 > **7 AI Models. Real Market Data. One Clear Verdict.**
 
-IMAI is an intelligent stock analysis engine that combines news sentiment, technical analysis, fundamental data, and 4 investment strategies to give you a clear, actionable verdict on any NSE-listed Indian stock.
+InvestMind is an intelligent stock analysis engine that combines news sentiment, technical analysis, fundamental data, and 4 investment strategies to give you a clear, actionable verdict on any NSE-listed Indian stock.
 
 ---
 
@@ -14,7 +14,7 @@ IMAI is an intelligent stock analysis engine that combines news sentiment, techn
 
 ## 📸 What It Does
 
-You enter a stock name → IMAI runs a full 8-step AI pipeline → You get a complete analysis report in ~60 seconds.
+You enter a stock name → InvestMind runs a full 8-step AI pipeline → You get a complete analysis report in ~60 seconds.
 
 ```
 Input: TCS.NS + "Want to buy"
@@ -101,7 +101,7 @@ Hosting   → Render (free tier)
 ## 📁 Project Structure
 
 ```
-IMAI/
+InvestMind/
 ├── render.yaml               # Render deployment config
 └── backend/
     ├── main.py               # Flask server (serves frontend + API)
@@ -215,7 +215,7 @@ Sentiment Adjustment → ±0.5 bonus/penalty
 
 ## ⚠️ Disclaimer
 
-> IMAI is an educational AI project. It does **not** provide financial advice. Always do your own research and consult a SEBI-registered financial advisor before investing. Past performance does not guarantee future returns.
+> InvestMind is an educational AI project. It does **not** provide financial advice. Always do your own research and consult a SEBI-registered financial advisor before investing. Past performance does not guarantee future returns.
 
 ---
 
