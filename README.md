@@ -221,7 +221,7 @@ Sentiment Adjustment → ±0.5 bonus/penalty
 
 ## 👨‍💻 Developer
 
-**Kashif** — Built as a portfolio project for TCS Digital/Prime interviews.
+**Kashif** — Built as a Final year Colleage project.
 
 - GitHub: [@kashif-kairo](https://github.com/kashif-kairo)
 
